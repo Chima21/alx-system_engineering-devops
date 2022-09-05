@@ -1,2 +1,2 @@
 #!/bin/bash
-grep-e ^ [[:lower:]] -e ^ [l:upper:]] /etclsshlsshd config
+grep -e ^ [[:lower:]] -e ^ [[:upper:]] /etc/ssh/sshd_config
